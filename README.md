@@ -1,4 +1,6 @@
 # Cuaderno_De_Ejercicios2
+link repo: https://github.com/Dinastino/Cuaderno_De_Ejercicios2.git
+
 ## Ejercicio 1
 1. Explicar sobre el siguiente grafo de red los conceptos de circuito virtual entre el nodo 
 10 y el 6, y datagrama entre el nodo 3 y el 6. Asumir arcos bidireccionales.
